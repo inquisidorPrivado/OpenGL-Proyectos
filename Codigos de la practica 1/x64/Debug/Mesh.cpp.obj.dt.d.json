@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\3ns3r\\documents\\workspace\\unam\\2027-1\\computación gráfica\\practicas\\practica_01\\practica01-gsd\\practica01-gsd\\mesh.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\3ns3r\\documents\\workspace\\unam\\2027-1\\computación gráfica\\practicas\\practica_01\\practica01-gsd\\practica01-gsd\\mesh.h",
+            "c:\\users\\3ns3r\\documents\\workspace\\unam\\2027-1\\computación gráfica\\practicas\\practica_01\\practica01-gsd\\practica01-gsd\\include\\glew.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.26100.0\\um\\gl\\glu.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.26100.0\\shared\\winapifamily.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.26100.0\\shared\\winpackagefamily.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.26100.0\\um\\gl\\gl.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

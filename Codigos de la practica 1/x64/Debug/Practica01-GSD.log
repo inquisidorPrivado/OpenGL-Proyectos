@@ -1,0 +1,4 @@
+﻿  P01-318120601.cpp
+C:\Users\3ns3r\Documents\Workspace\UNAM\2027-1\Computación gráfica\Practicas\Practica_01\Practica01-GSD\Practica01-GSD\P01-318120601.cpp(196,24): warning C4267: '=': conversión de 'size_t' a 'GLint'; posible pérdida de datos
+C:\Users\3ns3r\Documents\Workspace\UNAM\2027-1\Computación gráfica\Practicas\Practica_01\Practica01-GSD\Practica01-GSD\P01-318120601.cpp(303,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Practica01-GSD.vcxproj -> C:\Users\3ns3r\Documents\Workspace\UNAM\2027-1\Computación gráfica\Practicas\Practica_01\Practica01-GSD\x64\Debug\Practica01-GSD.exe
